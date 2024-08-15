@@ -5,3 +5,6 @@ Welcome to the official web based online cafe development repository of csedp. T
     Team :- CSE Dp
 
 <b><i>Made via Python Django and Bootstrap CSS framework</i></b>
+"# The-Cafe-Project" 
+"# The-Cafe-Project" 
+"# The-Cafe-Project" 
